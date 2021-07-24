@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /hello-world
+path: /gmo-fx
 date: 2020-02-20T07:08:53.137Z
 title: Agency FX service launched in UK and Hong Kong by GMO
 metaDescription: FX service in UK and Hong Kong
