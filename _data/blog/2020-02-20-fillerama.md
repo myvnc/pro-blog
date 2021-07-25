@@ -3,15 +3,16 @@ template: BlogPost
 path: /forex-trading
 date: 2020-02-20T14:59:36.571Z
 title: Forex Trading for Beginners (Part 1)
-thumbnail: /assets/image-5.jpg
+thumbnail: /assets/外匯交易-A-Z-Forex-Trading.jpg
 ---
 <!--StartFragment-->
 
-# **Forex Exchange Introduction**
+# **Foreign Exchange Introduction**
 
 There are 180 currencies that are recognized as legal tender around the world today. With so many different ways to pay for goods and services, there is a constant need to convert currencies from one form to another. During the month of January 2016, $4.8 trillion in currency changed hands in global markets on a daily basis, demonstrating the significance foreign exchange plays in our global economy.
 
-[![](https://forex.z.com/hk/static/common/images/whyzcomtrade/powerfultechnology/img_05.jpg)](https://forex.z.com/hk/static/common/images/whyzcomtrade/powerfultechnology/img_05.jpg)
+
+[![](https://forex.z.com/hk/static/en/forex_trading/images/img_whytrade_01.png)](https://forex.z.com/)
 
 ## **1. What is foreign exchange**
 
@@ -53,8 +54,6 @@ CHF 0.0001
 
 According to international practice, three English letters are usually used to represent the name of the currency (English code of the currency).
 
-
-
 ## **3. Direct price method and indirect price method**
 
 There are two kinds of pricing methods of exchange rate: direct pricing method and indirect pricing method.
@@ -93,8 +92,6 @@ Each market has its own fixed and unique characteristics, but all markets have s
 |               | London    | 09：00             | 17：00             |
 | North America | New York  | 12：00             | 20：00             |
 
-
-
 ## **5. Foreign exchange market**
 
 The [foreign exchange platform](https://forex.z.com/hk/tc/whyzcomtrade/trustedtrading.html)refers to the trading place engaged in foreign exchange trading, or the place where various currencies are exchanged with each other. The foreign exchange market exists because:
@@ -118,11 +115,5 @@ Participants in the foreign exchange market mainly include central banks, commer
 - - -
 
 (Part 1 End)
-
-
-
-
-
-
 
 <!--EndFragment-->
