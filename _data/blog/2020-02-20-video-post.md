@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /video-post
+path: /video-marketing
 date: 2020-02-28T02:00:00.000Z
 title: GROW YOUR BUSINESS WITH EXPLAINER VIDEOS
 thumbnail: /assets/Video-Marketing-Concept.png
@@ -35,38 +35,41 @@ We are full-cycle agency that helps you not just create professional videos but 
 
 [](https://www.wisespero.com/agency/#seo)[Free 30-min SEO Service Consultation](https://calendly.com/wisespero/schedule-a-free-call)
 
-![Service Icon](https://www.wisespero.com/agency/images/service/1.png)
+<img src="https://www.wisespero.com/agency/images/service/1.png" alt="Video Production" style="width:64px;">
 
 ##### Video Production
 
 Supercharge your growth and visibility in the cluttered online space with high end promotional videos that WOW your audiences.<br> <a href="https://www.wisespero.com/agency/#vid"> Create Your Video Here
 </a> <br>
 
-![Service Icon](https://www.wisespero.com/agency/images/service/2.png)
+<img src="https://www.wisespero.com/agency/images/service/2.png" alt="SEO Services" style="width:69px;">
+
 
 ##### SEO Services
 
 Place Your Website At The Top of SERPs And Get More Sales & Leads.**[Free 30-min SEO Service Consultation](https://calendly.com/wisespero/schedule-a-free-call).**No Contracts.
 
-![Service Icon](https://www.wisespero.com/agency/images/service/3.png)
+<img src="https://www.wisespero.com/agency/images/service/3.png" alt="Creative Content Marketing" style="width:64px;">
 
 ##### Creative Content Marketing
 
 Create content that not just captivates attention but commands it! We do full-cycle content marketing that leverages your content into.
 
-![Service Icon](https://www.wisespero.com/agency/images/service/4.png)
+<img src="https://www.wisespero.com/agency/images/service/4.png" alt="YouTube and Content Syndication" style="width:64px;">
+
 
 ##### YouTube and Content Syndication
 
 Syndication and distributing your videos across the web is an art and we have mastered it. Now, traffic generation and sales is easier than ever before!
 
-![Service Icon](https://www.wisespero.com/agency/images/service/5.png)
+<img src="https://www.wisespero.com/agency/images/service/5.png" alt="High Definition 2D Avatar Video Creation" style="width:64px;">
+
 
 ##### High Definition 2D Avatar Video Creation
 
 We use the latest technological developments in 2D animation to build you high end videos that reaches our and grabs the attention of your prospects and converts them into buyers!
 
-![Service Icon](https://www.wisespero.com/agency/images/service/6.png)
+<img src="https://www.wisespero.com/agency/images/service/6.png" alt="CPA marketing" style="width:64px;">
 
 ##### CPA marketing
 
