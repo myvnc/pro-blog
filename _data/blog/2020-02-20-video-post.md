@@ -35,51 +35,50 @@ We are full-cycle agency that helps you not just create professional videos but 
 
 [](https://www.wisespero.com/agency/#seo)[Free 30-min SEO Service Consultation](https://calendly.com/wisespero/schedule-a-free-call)
 
-<img src="https://www.wisespero.com/agency/images/service/1.png" alt="Video Production" style="width:64px;">
+<!--StartFragment-->
+
+![Service Icon](https://www.wisespero.com/agency/images/service/1.png)
 
 ##### Video Production
 
-Supercharge your growth and visibility in the cluttered online space with high end promotional videos that WOW your audiences.<br> <a href="https://www.wisespero.com/agency/#vid"> Create Your Video Here
-</a> <br>
+Supercharge your growth and visibility in the cluttered online space with high end promotional videos that WOW your audiences.
+<br><a href="https://www.wisespero.com/agency/#vid"> Create  Promotional Video Here </a> 
 
-<img src="https://www.wisespero.com/agency/images/service/2.png" alt="SEO Services" style="width:69px;">
-
+![Service Icon](https://www.wisespero.com/agency/images/service/2.png)
 
 ##### SEO Services
 
-Place Your Website At The Top of SERPs And Get More Sales & Leads.**[Free 30-min SEO Service Consultation](https://calendly.com/wisespero/schedule-a-free-call).**No Contracts.
+Place Your Website At The Top of SERPs And Get More Sales & Leads.
+<br>**[Free 30-min SEO Service Consultation](https://calendly.com/wisespero/schedule-a-free-call). **No Contracts.
 
-<img src="https://www.wisespero.com/agency/images/service/3.png" alt="Creative Content Marketing" style="width:64px;">
+![Service Icon](https://www.wisespero.com/agency/images/service/3.png)
 
 ##### Creative Content Marketing
 
 Create content that not just captivates attention but commands it! We do full-cycle content marketing that leverages your content into.
 
-<img src="https://www.wisespero.com/agency/images/service/4.png" alt="YouTube and Content Syndication" style="width:64px;">
-
+![Service Icon](https://www.wisespero.com/agency/images/service/4.png)
 
 ##### YouTube and Content Syndication
 
 Syndication and distributing your videos across the web is an art and we have mastered it. Now, traffic generation and sales is easier than ever before!
 
-<img src="https://www.wisespero.com/agency/images/service/5.png" alt="High Definition 2D Avatar Video Creation" style="width:64px;">
-
+![Service Icon](https://www.wisespero.com/agency/images/service/5.png)
 
 ##### High Definition 2D Avatar Video Creation
 
 We use the latest technological developments in 2D animation to build you high end videos that reaches our and grabs the attention of your prospects and converts them into buyers!
 
-<img src="https://www.wisespero.com/agency/images/service/6.png" alt="CPA marketing" style="width:64px;">
+![Service Icon](https://www.wisespero.com/agency/images/service/6.png)
 
 ##### CPA marketing
 
 We use the most advanced marketing strategies and revolutionary methods to generate your business quality leads without spending on paid advertising!
 
-<!--EndFragment-->
-
-<!--StartFragment-->
+<!--EndFragment--><!--StartFragment-->
 
 ## Examples the type of videos we can create for you...
+
 <center>
 <video controls width="250">
   <source src="https://www.wisespero.com/agency/demo1.mp4" type="video/mp4">
@@ -100,14 +99,10 @@ We use the most advanced marketing strategies and revolutionary methods to gener
   Your browser does not support the video tag.
 </video>
 
-
-
 \
 [<center>**CLICK HERE TO VIEW MORE VIDEO SAMPLES**](https://bit.ly/My-Video-Works)
 
-<a href="https://www.wisespero.com/agency/#vid"> <B>CREATE YOUR VIDEO HERE</B>
-</a> 
-
+<a href="https://www.wisespero.com/agency/#vid"> <B>CREATE YOUR VIDEO HERE</B> </a> 
 
 **Thank you for visiting our blog. We look forward to hearing from you soon!**
 
