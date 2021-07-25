@@ -1,454 +1,173 @@
 ---
 template: BlogPost
-path: /remark-kitchen-sink
+path: /次氯酸水
 date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
-thumbnail: /assets/image-6.jpg
+title: 何謂次氯酸水?有什麼用途？
+thumbnail: /assets/K-clean-次氯酸水.webp
 ---
-# h1 Heading 8-)
+# 何謂次氯酸
 
-## h2 Heading
+次氯酸是一種化學式為HClO的不穩定弱酸， 它僅能存在於溶液中，一般用作漂白劑、氧化劑、除臭劑和消毒劑等運用。
 
-### h3 Heading
+在水溶液中，次氯酸部分電離為次氯酸根ClO−(也稱為次氯酸鹽陰離子)和氫離子H+。
 
-#### h4 Heading
+含有次氯酸根的鹽被稱為次氯酸鹽。最廣為人知的一種家用次氯酸鹽消毒劑(漂白水)就是次氯酸鈉(NaClO)。
 
-##### h5 Heading
+當純淨的氯氣通入水中時，會形成次氯酸和氯化氫(HCl，鹽酸)：Cl2 + H2O → HClO + HCl
 
-###### h6 Heading
+次氯酸（HClO）是遊離氯的較強形式，鹽酸的PH和鹼度均低於它。
 
-## Horizontal Rules
+在生物學中，次氯酸被嗜中性白細胞（Neutrophil）用來殺滅細菌，且被廣泛用於游泳池的含氯消毒劑產品。
 
-- - -
+## 次氯酸 (HClO)
 
-- - -
+次氯酸是人體白血球分泌的一種殺菌成分，專門用來破壞細菌的細胞壁與病毒的外殼，讓細菌與病毒無法存活，由於與人體親和，故不傷害人體。
 
-- - -
+[K-clean](https://www.k-clean.com.hk)屬於弱酸性的次氯酸水，其超強氧化力，具有快速的殺菌、消毒的功用，再運用本公司獨特的技術配方，使次氯酸發揮最大的功效，並可增加有效期與安定性。另一成分-六環微分子純淨水(0.07度)：純度極高的淨水，當微分子純水與次氯酸結合後，能發揮最大殺菌功效，在不受光條件下能提高保存期限。
 
-## Typographic replacements
+而微酸性的次氯酸水已於2002年由日本厚生勞動省與美國國家食品藥物管理局(簡稱FDA)認定為食品添加物的許可；當與微生物及有機物接觸後，隨即還原為鹽水，十分安全，且由於次氯酸成分濃度低，使用後可迅速分解，不會產生有害物質殘留，因此對環境與人體均無害。
 
-Enable typographer option to see result.
+![K-clean, Antibacterial,次氯酸水,抗菌液,消毒噴霧,秒速殺菌,無酒精搓手液,霧化器,消毒,消毒服務](https://shoplineimg.com/5e7f6f3a9e08ce0029908f99/5e9f085ef177470021af2982/720x.webp?source_format=jpg)
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+## K-clean, GMP, 醫療級次氯酸, 抗菌液
 
-test.. test... test..... test?..... test!....
+「K-clean的生產工場為正統GMP及台灣第二等級醫療器材廠生產認證 (品質有保障)，非一般廠商僅用電解水生成機於一般工廠生產。 產品真正委請台美檢驗科技協會衛福部疾管署分析病毒株，完成腸病毒71型抗病毒的實驗。生產廠商(台灣全鵬科技股份有限公司)是首家以次氯酸水成分，取得台灣衛福部核可，製造食品用洗滌劑。其同成分產品 (ATK 系列) 已取得台灣衛福部第一等級醫療器材許可證(一般醫療器械消毒劑)。」
 
-!!!!!! ???? ,,  -- ---
+ **Q : K-clean與一般電解式的次氯酸水有何不同？** 
 
-"Smartypants, double quotes" and 'single quotes'
+A: 在同樣濃度與pH值的條件相比下： K-clean屬於化學合成配方水，能視不同需求與用途調整次氯酸的濃度，殺菌力更優於電解水，且因採用六環微分子純水，能使保存期限延長(在遮光密閉常溫下可放1至2年) 。 而採用電極分解出的次氯酸，濃度會受限，殺菌力較化學合成配方水差，且因採電解方式，次氯酸較易分解，故保存期限很短 (在遮光密閉常溫下只可放幾天至6個月)。 
 
-## Emphasis
+**Q: 使用K-clean會不會造成皮膚粗糙？**
 
-**This is bold text**
+A: 市面上一般的偏鹼性清潔用品，為了要充份清洗手上的油分，往往會讓手變粗糙乾裂或產生副作用，而K-clean全方位抗菌液採用六環微分子純水與純次氯酸調合為弱酸性抗菌水，由於水分子小易為皮膚吸收，不但能殺菌還能保護皮膚細緻的作用。 
 
-**This is bold text**
+![K-clean, Antibacterial,次氯酸水,抗菌液,消毒噴霧,秒速殺菌,無酒精搓手液,霧化器,消毒,消毒服務](https://shoplineimg.com/5e7f6f3a9e08ce0029908f99/5ede8ab68d8e0855d13855ea/720x.webp?source_format=jpg)
 
-*This is italic text*
+**Q. K-clean可以用在什麼地方？** 
 
-*This is italic text*
+A：K-clean可運用於日常生活中的每個地方與每個時間，它的殺菌能力可以提升您對細菌與病毒的防護，而且對人體無害，可使用範圍包括：
 
-~~Strikethrough~~
+**居家部分：** 
 
-## Blockquotes
+1.一般：雙手消毒、開關與門把、樓梯扶手、冷氣空調吹風口與過濾網、手提電話、鞋子、腳踏墊、鞋櫃、垃圾桶、洗衣機等。
 
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
+2.廚房：廚餘除臭、生鮮蔬菜、水果、鮮魚、肉類等清洗保鮮，碗盤廚具、砧板、抹布、雪櫃、污水管管口、水龍頭把手與出水口等。 
 
-## Lists
+3.廁所：浴廁馬桶、浴缸洗臉槽、水龍頭開關，牙刷、杯子、梳子、毛巾、洗臉用品，防止磁磚周圍的黑色黴菌孳生等。 
 
-Unordered
+4.書房：鍵盤、滑鼠、遙控器、地毯、電源開關等。
 
-* Create a list by starting a line with `+`, `-`, or `*`
-* Sub-lists are made by indenting 2 spaces:
+5.兒童：地墊、玩具、寢具、床單、枕套、被套、奶嘴、奶樽等。 
 
-  * Marker character change forces new list start:
+6.寵物：玩具、潔牙骨、被窩、排泄物區、項圈、牽繩、衣服等。 
 
-    * Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Very easy!
+7. 女性物品：化妝工具、粉撲、刷具、隱形眼鏡盒等。 
 
-Ordered
+**外出部分：**
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
+1.使用公共廁所時，既可殺菌、又可除臭。 
 
-Start numbering with offset:
+2.使用錢幣、紙鈔後雙手消毒殺菌。 
 
-57. foo
-58. bar
+3.公車把手、公共場所的扶手殺菌。
 
-## Code
+4.外出用餐餐具、餐桌、餐椅殺菌。 
 
-Inline `code`
+5.汽車把手、車內按鍵和軚盤、空調吹風口、車箱內去味除菌、嬰兒座椅。 
 
-Indented code
+6.公共空間去除煙味與空氣淨化。 
 
-```
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-```
+7.流感高峰期間，霧化空間殺菌與空氣淨化。
 
-Block code "fences"
+Q. K-clean與細菌反應後會呈什麼樣的狀態？與其他有機物反應後會如何？
 
-```
-Sample text here...
-```
+A：K-clean的除菌成分為HClO（次氯酸），與有機物反應後會還原成鹽水，對環境與人體均無害且不殘留，亦是一種無污染的純環保產品。
 
-Syntax highlighting
+**Q. K-clean是否受溫度變化而會有影響？** 
 
-```js
-var foo = function (bar) {
-  return bar++;
-};
+A：K-clean有效期限為2年 (在未開封及遮光密閉常溫條件下)。有效性會因陽光直射或高溫環境長期曝曬而降低。故K-clean應置於陰涼處保存，建議在開封後於6個月內使用完。
 
-console.log(foo(5));
-```
+**Q. K-clean的殺菌力如何？** 
 
-## Tables
+A：K-clean是利用次氯酸的強氧化力，瞬間產生殺菌效果，而次氯酸的氧化過程中，會與有機物快速結合，當次氯酸與細菌病毒接觸後，就會與細胞膜結合，使細胞膜的結構產生變化，使細菌病毒無法存活而產生殺菌效果。與其他消毒產品相比，產生殺菌效果的殺菌時間更短 (經SGS檢驗可於5秒內消滅大腸桿菌、金黃色葡萄球菌、綠膿桿菌、白色念珠桿菌、黑麴菌等細菌)。 
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
+**Q.使用K-clean需要稀釋嗎？**
 
-Right aligned columns
+A：K-clean是引進美國最新實驗研究技術，其配方能使次氯酸發揮最大功效，因此不建議稀釋使用。 
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
+**Q. 使用K-clean與使用稀釋漂白水殺菌有何不同？** 
 
-## Links
+A：K-clean的pH值約5.0 ± 0.5，次氯酸濃度200ppm*，即使與人體接觸也不會殘留，與水一樣沒有危害；市售漂白水pH值達9以上，有效氯濃度約5萬ppm，即使稀釋後，濃度也遠遠高於K-clean全方位抗菌液，一般漂白水殺菌的同時人體還會吸入有害物質，並會傷害肌膚，具危險性。 
 
-[link text](http://dev.nodeca.com)
+## 次氯酸含量或因儲存狀況有所差異
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+**Q. 人體與寵物長期使用K-clean會有副作用嗎?**
 
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+A：K-clean與有機物或細菌、病毒接觸後，就會瞬間變成普通的鹽水，所以殺完細菌後吸入的也是一般的水，而且微酸性的次氯酸水已於2002年由日本厚生勞動省與美國FDA認定為，具殺菌功能之食品添加物，也在日本及美國通過動物安全性測試，所以不會對人體造成危害。惟對「氯過敏者」請勿使用。 
 
-## Images
+**Q. K-clean可以喝嗎？或當漱口水用嗎？** 
 
-![Minion](https://octodex.github.com/images/minion.png) ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+A：K-clean主要用於除菌，適於外用，非內服藥物，也並非治療因各式病菌所造成的疾病或併發症，若有任何疾病或身體不適狀況發生，建議應尋求醫生協助處理。另經實驗證明 (國外多數牙醫已使用次氯酸水作為口腔消毒液)，使用次氯酸水漱口能有效去除口內微生物的功用，建議每次使用約10ml，並在口腔內停留5秒以上再吐掉。 
 
-Like links, Images also have a footnote style syntax
+**Q. K-clean與酒精消毒有何不同？** 
 
-![Alt text](https://octodex.github.com/images/dojocat.jpg "The Dojocat")
+A：酒精係透過脫水作用產生殺菌效果，對一般細菌及有外套膜的病毒有效，但無法殺死孢子及親水病毒(例如腸病毒)，當酒精濃度低於50%則更無殺菌效果，而次氯酸則反之，它能消滅原核生物，卻又不傷人體肌膚與呼吸道等器官。
 
-With a reference later in the document defining the URL location:
+**Q. K-clean可以去除農藥殘留嗎？需要浸泡嗎？** 
 
-## Plugins
+A：經試驗證實K-clean有去除農藥殘留的作用，因為次氯酸的成分可與有機物(農藥)反應並使其分解，建議以噴灑或流動水浸洗方式使用。 
 
-The killer feature of `markdown-it` is very effective support of [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+**Q. K-clean能作為廁所內馬桶座的除菌與防臭的消毒嗎? 能避免細菌的交叉感染嗎?**
 
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+ A：不論是家裡或外面廁所的馬桶座上，非常容易滋生細菌，使用K-clean不但可瞬間殺死細菌與病毒，還可立刻除臭，並可降低細菌的交叉感染與傳播。
 
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
+**Q. K-clean可作為紙鈔或錢幣的除菌用品？** 
 
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
+A：紙鈔或錢幣是細菌滋生的溫床，每當接觸紙鈔或錢幣後，可使用K-clean來消毒殺菌，避免細菌感染，還可除臭。 
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+**Q. K-clean與公共場所、醫院或商場店舖給來賓使用的洗手液、消毒液有何差異?**
 
-* 19^th^
-* H\~2\~O
+ A：公共場所、醫院或商場店舖一般提供給顧客的是以酒精為主的消毒產品，而酒精的殺菌能力有限，使用後對皮膚的清潔防護也有限，K-clean可以取代酒精使用，通過噴霧、噴灑等方式進行清潔消毒，且不傷肌膚，作用後變為微量鹽水，就算誤食也不會造成身體傷害。 
 
-### [<ins>](https://github.com/markdown-it/markdown-it-ins)
+**Q. K-clean可直接噴灑於動物、寵物身上嗎?** 
 
-++Inserted text++
+A：在美國已針對動物皮膚、鼻腔黏膜、眼睛虹膜、口服毒性、染色體異常誘發性進行安全實驗，結果證實使用安全無虞，目前歐美許多地區的寵物美容店，已應用次氯酸水於寵物淋浴後，眼睛、腳部清潔、殺菌。還可去除寵物身上異味。 
 
-### [<mark>](https://github.com/markdown-it/markdown-it-mark)
+**Q. 如何證明K-clean的效果?** 
 
-\==Marked text==
+A：1. 可將K-clean對家中廚餘噴灑，待10秒後，會發現臭味有明顯的改善，因為廚餘的臭味是來自於細菌的大量繁殖，當細菌被殺死了，臭味自然消除了。
 
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+2. K-clean亦可用來噴灑在香港腳上，需每天早晚噴灑，約7天後會有明顯改善脫皮與癢等現象。
+3. 家中毛巾與抹布使用K-clean噴灑後，較不會有異味及發霉現象。
 
-Footnote 1 link\[^first].
+<!--StartFragment-->
 
-Footnote 2 link\[^second].
+![K-clean, Antibacterial,次氯酸水,抗菌液,消毒噴霧,秒速殺菌,無酒精搓手液,霧化器,消毒,消毒服務](/assets/K-clean消毒噴霧專業防疫用品 Main Products Photo.jpg)
 
-Inline footnote^\[Text of inline footnote] definition.
+![](https://shoplineimg.com/5e7f6f3a9e08ce0029908f99/6062e1c93ee4b70020bd5082/720x.webp?source_format=png)
 
-Duplicated footnote reference\[^second].
 
-\[^first]: Footnote **can have markup**
 
-```
-and multiple paragraphs.
-```
 
-\[^second]: Footnote text.
 
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+<!--EndFragment-->
 
-Term 1
+## K-clean（飛勁科技有限公司）
 
-:   Definition 1 with lazy continuation.
+在19世紀，生物學家發覺人體白血球會分泌一種滅菌成分，經分析結果為次氯酸。到了20世紀，人類嘗試將次氯酸用在日常生活的消毒滅菌，但高濃度的次氯酸氧化力強，不易生產也不易保存，因此人類改用次氯酸鈉溶液來產生次氯酸，雖然消毒效果強，但次氯酸鈉卻對人體有害。1980年後，日本發覺電解水也能產生次氯酸且不傷人體，但其濃度不夠，保存期限也不長。 公元2000年進入納米科技時代，美國利用納米技術，控制水分子結構，進而研究出濃度高且穩定性強的次氯酸溶液。全鵬科技引進此一技術，並經內部研究團隊針對不同的應用層面進行研發，生產出一系列的次氯酸抗菌產品。"
 
-Term 2 with *inline markup*
+K-clean 醫療級別次氯酸水，概念源於白血球。 次氯酸含量高達200pm，pH5.0，巿場上純度最高之次氯酸水。不含有害化學物，可配合霧化器使用，作多元化殺菌消毒！
 
-:   Definition 2
+⭐️香港最大載人運輸機構及最大的慈善機構均已選用K-clean！ K-clean值得信賴，安全可靠。
 
-```
-    { some code, part of Definition 2 }
+⭐️香港權威機構報告，1分鐘內殺滅細菌病毒效能>99.99%，排名第1位，消費者首選。
 
-Third paragraph of definition 2.
-```
+⭐️秒速殺菌，可於30秒內殺滅新冠病毒及大部分世上已知細菌及病毒。
 
-*Compact style:*
+⭐️比75%酒精更有效、更安全。
 
-Term 1   ~ Definition 1
+⭐️pH5.0，親和皮膚，有助紓緩濕疹、暗瘡、香港腳、鼻敏感等問題。
 
-Term 2   \~ Definition 2a
-  \~ Definition 2b
+⭐️嬰孩、寵物、G6PD蠶豆症人士等都適用。
 
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*\[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning *here be dragons* :::---
-**Advertisement :)**
-
-* **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image resize in browser.
-* **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly i18n with plurals support and easy syntax.
-
-You will like those projects!
-
-- - -
-
-# h1 Heading 8-)
-
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Horizontal Rules
-
-- - -
-
-- - -
-
-- - -
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-## Emphasis
-
-**This is bold text**
-
-**This is bold text**
-
-*This is italic text*
-
-*This is italic text*
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-* Create a list by starting a line with `+`, `-`, or `*`
-* Sub-lists are made by indenting 2 spaces:
-
-  * Marker character change forces new list start:
-
-    * Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-58. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-```
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-```
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png) ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text](https://octodex.github.com/images/dojocat.jpg "The Dojocat")
-
-With a reference later in the document defining the URL location:
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-* 19^th^
-* H\~2\~O
-
-### [<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-\==Marked text==
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link\[^first].
-
-Footnote 2 link\[^second].
-
-Inline footnote^\[Text of inline footnote] definition.
-
-Duplicated footnote reference\[^second].
-
-\[^first]: Footnote **can have markup**
-
-```
-and multiple paragraphs.
-```
-
-\[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1 with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-```
-    { some code, part of Definition 2 }
-
-Third paragraph of definition 2.
-```
-
-*Compact style:*
-
-Term 1   ~ Definition 1
-
-Term 2   \~ Definition 2a
-  \~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*\[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning *here be dragons* :::
+⭐️K-clean 您的皮膚護理消毒專家，您的守護天使!
