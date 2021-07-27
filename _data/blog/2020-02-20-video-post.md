@@ -41,15 +41,13 @@ We are full-cycle agency that helps you not just create professional videos but 
 
 ##### Video Production
 
-Supercharge your growth and visibility in the cluttered online space with high end promotional videos that WOW your audiences.
-<br><a href="https://www.wisespero.com/agency/#vid"> Create  Promotional Video Here </a> 
+Supercharge your growth and visibility in the cluttered online space with high end promotional videos that WOW your audiences. <br><a href="https://www.wisespero.com/agency/#vid"> Create  Promotional Video Here </a> 
 
 ![Service Icon](https://www.wisespero.com/agency/images/service/2.png)
 
 ##### SEO Services
 
-Place Your Website At The Top of SERPs And Get More Sales & Leads.
-<br>**[Free 30-min SEO Service Consultation](https://calendly.com/wisespero/schedule-a-free-call). **No Contracts.
+Place Your Website At The Top of SERPs And Get More Sales & Leads. <br>**[Free 30-min SEO Service Consultation](https://calendly.com/wisespero/schedule-a-free-call).** No Contracts.
 
 ![Service Icon](https://www.wisespero.com/agency/images/service/3.png)
 
@@ -57,7 +55,7 @@ Place Your Website At The Top of SERPs And Get More Sales & Leads.
 
 Create content that not just captivates attention but commands it! We do full-cycle content marketing that leverages your content into.
 
-![Service Icon](https://www.wisespero.com/agency/images/service/4.png)
+![Service Icon](/assets/YouTube Small Icon.png)
 
 ##### YouTube and Content Syndication
 
