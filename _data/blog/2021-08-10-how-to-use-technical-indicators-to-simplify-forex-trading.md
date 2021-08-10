@@ -16,7 +16,7 @@ If you suffer a loss while trying to grasp a complex concept, don't worry anymor
 \
 Finally, if you have more options to win from foreign exchange trading, it will be the best. More importantly...read this article for answers.
 
-![](http://cgwoss.oss-cn-shenzhen.aliyuncs.com/210810160028888618596.jpeg)
+![](/assets/外匯交易平台Forex-Trading-Paltform-Cover1-500x.jpg)
 
 **Tradingforeign exchange**
 
