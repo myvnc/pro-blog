@@ -3,8 +3,8 @@ template: BlogPost
 path: /future1
 date: 2021-08-15T14:58:45.749Z
 title: >-
-  Brief history of the future 1: Mankind has faced problems for thousands of
-  years and fundamental changes
+  A brief history of the future 1: Human faces several thousand years of
+  fundamental change...
 thumbnail: /assets/mankind-future-3.jpg
 ---
 Hello, friends,
