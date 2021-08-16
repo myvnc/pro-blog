@@ -156,8 +156,10 @@ these questions,\
 \
 We will answer them one by one later,\
 \
-Let's sell it first.\
-\
+Let's sell it first.
+
+![Forex Trading](/assets/forex-trading-2021.png)
+
 The next question, the stock market fell,\
 \
 Where did the money go? Many people don’t understand,\
